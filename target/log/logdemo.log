@@ -1,0 +1,226 @@
+01:07:17:833 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:17:853 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:18:219 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:18:220 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:18:399 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:18:400 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:19:053 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:19:054 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:19:741 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:19:743 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:19:975 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:19:976 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:20:197 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:20:198 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:21:032 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:21:033 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:21:786 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:21:786 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:22:110 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:22:121 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:22:364 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:22:364 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:25:463 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:07:25:463 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:25:832 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:07:25:832 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:26:042 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:07:26:042 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:26:318 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:07:26:319 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:26:476 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:07:26:476 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:26:639 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:07:26:640 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:26:808 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:07:26:809 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:27:722 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:07:27:722 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:27:883 [main] INFO  com.step.StepDefinition - scenario Name :Hotel A Hotel Functionality
+01:07:27:883 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:28:889 [main] INFO  com.step.StepDefinition - scenario Name :Hotel A Hotel Functionality
+01:07:28:889 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:29:175 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:07:29:176 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:29:349 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:07:29:349 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:29:702 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:07:29:702 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:29:914 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:07:29:914 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:30:125 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:07:30:127 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:30:319 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:07:30:319 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:30:468 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:07:30:468 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:30:614 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:07:30:614 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:30:752 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:07:30:753 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:37:423 [main] INFO  com.step.StepDefinition - scenario Name :Booking Confirmation Functionality
+01:07:37:423 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:07:44:709 [main] INFO  com.step.StepDefinition - ************* Test cases completed ****************************
+01:17:18:884 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:18:892 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:19:230 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:19:231 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:19:426 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:19:426 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:20:113 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:20:114 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:20:725 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:20:725 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:20:926 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:20:927 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:21:122 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:21:122 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:21:726 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:21:726 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:22:359 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:22:359 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:22:604 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:22:604 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:22:859 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:22:860 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:26:084 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+01:17:26:084 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:26:459 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:17:26:460 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:26:692 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:17:26:692 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:26:931 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:17:26:931 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:27:150 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:17:27:150 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:27:406 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:17:27:407 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:27:620 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:17:27:620 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:28:768 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+01:17:28:768 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:28:972 [main] INFO  com.step.StepDefinition - scenario Name :Hotel A Hotel Functionality
+01:17:28:973 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:29:966 [main] INFO  com.step.StepDefinition - scenario Name :Hotel A Hotel Functionality
+01:17:29:966 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:30:227 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:17:30:228 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:30:423 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:17:30:424 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:30:962 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:17:30:962 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:31:320 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:17:31:320 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:31:707 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:17:31:707 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:31:923 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:17:31:923 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:32:149 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:17:32:149 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:32:313 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:17:32:314 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:32:425 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+01:17:32:425 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:39:253 [main] INFO  com.step.StepDefinition - scenario Name :Booking Confirmation Functionality
+01:17:39:253 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+01:17:46:624 [main] INFO  com.step.StepDefinition - ************* Test cases completed ****************************
+13:44:51:332 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:51:359 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:51:772 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:51:772 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:51:934 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:51:935 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:52:696 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:52:696 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:53:243 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:53:243 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:53:401 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:53:401 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:53:554 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:53:555 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:54:154 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:54:155 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:54:619 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:54:620 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:54:922 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:54:922 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:55:087 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:55:088 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:58:481 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:44:58:482 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:58:905 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+13:44:58:905 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:59:220 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+13:44:59:221 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:59:549 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+13:44:59:550 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:44:59:821 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+13:44:59:821 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:00:136 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+13:45:00:136 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:00:800 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+13:45:00:800 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:02:063 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+13:45:02:063 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:02:389 [main] INFO  com.step.StepDefinition - scenario Name :Hotel A Hotel Functionality
+13:45:02:389 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:03:851 [main] INFO  com.step.StepDefinition - scenario Name :Hotel A Hotel Functionality
+13:45:03:853 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:04:559 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:45:04:559 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:05:111 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:45:05:111 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:05:811 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:45:05:811 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:06:680 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:45:06:692 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:07:513 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:45:07:513 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:07:830 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:45:07:831 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:08:604 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:45:08:604 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:08:929 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:45:08:929 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:09:148 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:45:09:148 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:16:562 [main] INFO  com.step.StepDefinition - scenario Name :Booking Confirmation Functionality
+13:45:16:562 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:45:29:877 [main] INFO  com.step.StepDefinition - ************* Test cases completed ****************************
+13:47:08:662 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:08:674 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:09:130 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:09:131 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:09:293 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:09:294 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:09:979 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:09:979 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:10:557 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:10:557 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:10:729 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:10:729 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:10:877 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:10:877 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:11:599 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:11:599 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:12:102 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:12:103 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:12:329 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:12:340 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:12:535 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:12:537 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:13:426 [main] INFO  com.step.StepDefinition - scenario Name :Login Functionality
+13:47:13:426 [main] INFO  com.step.StepDefinition - scenario status :PASSED
+13:47:13:572 [main] INFO  com.step.StepDefinition - scenario Name :Hotel Search Page Functionlity
+13:47:13:573 [main] ERROR com.step.StepDefinition - Scenario fail : Hotel Search Page Functionlity
+13:47:14:751 [main] INFO  com.step.StepDefinition - scenario status :FAILED
+13:47:15:182 [main] INFO  com.step.StepDefinition - scenario Name :Hotel A Hotel Functionality
+13:47:15:183 [main] ERROR com.step.StepDefinition - Scenario fail : Hotel A Hotel Functionality
+13:47:16:183 [main] INFO  com.step.StepDefinition - scenario status :FAILED
+13:47:16:399 [main] INFO  com.step.StepDefinition - scenario Name :Book A Hotel Functionality
+13:47:16:400 [main] ERROR com.step.StepDefinition - Scenario fail : Book A Hotel Functionality
+13:47:17:098 [main] INFO  com.step.StepDefinition - scenario status :FAILED
+13:47:27:337 [main] INFO  com.step.StepDefinition - scenario Name :Booking Confirmation Functionality
+13:47:27:337 [main] ERROR com.step.StepDefinition - Scenario fail : Booking Confirmation Functionality
+13:47:27:902 [main] INFO  com.step.StepDefinition - scenario status :FAILED
+13:47:38:491 [main] INFO  com.step.StepDefinition - ************* Test cases completed ****************************
